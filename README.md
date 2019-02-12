@@ -1,2 +1,2 @@
-# https:// BWNfood.github.io
+# http:// BWNfood.github.io
 MY FIRST WEBSITE 
